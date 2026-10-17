@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "NEX\u00d8RA Campus One AI",
+    "slug": "nexora-campus-one-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/mewar-university.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#020817"
+    },
+    "android": {
+      "package": "com.nexora.campusoneai",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mewar-university.png",
+        "backgroundColor": "#020817"
+      }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
